@@ -19,12 +19,12 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "df2f8e23f0a00791420deb1ee52e2ca3b922bdf1",
     "author": "Alous12",
     "commit": {
       "date": "2025-09-04T13:41:19.000Z",
       "message": "feat: agregar mostrar e ingresar precio por item",
-      "url": "https://github.com/Alous12/TotalizadorIngeSoftware/commit/HEAD"
+      "url": "https://github.com/Alous12/TotalizadorIngeSoftware/commit/df2f8e23f0a00791420deb1ee52e2ca3b922bdf1"
     },
     "stats": {
       "total": 9,
@@ -36,5 +36,24 @@
     "test_count": 0,
     "failed_tests": 0,
     "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alous12",
+    "commit": {
+      "date": "2025-09-04T13:51:12.000Z",
+      "message": "feat: agregar mostrar peso neto(precio * cantidad)",
+      "url": "https://github.com/Alous12/TotalizadorIngeSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 11,
+      "deletions": 1,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
