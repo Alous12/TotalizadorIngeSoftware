@@ -4,9 +4,9 @@ const items = document.querySelector("#cantidad-item");
 const precio = document.querySelector("#precio-item");
 const div = document.querySelector("#resultado-div");
 const form = document.querySelector("#total-form");
+const estado = document.querySelector("select");
 
 form.addEventListener("submit", (event) => {
   event.preventDefault();
-
-  div.innerHTML = "<p>" + totalizador(items.value, precio.value) + "</p>";
+  div.innerHTML = "<p>" + totalizador(items.value, precio.value, estado.value) + "</p>";
 });

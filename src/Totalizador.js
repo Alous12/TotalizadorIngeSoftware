@@ -1,7 +1,7 @@
-function totalizador(cant,precio)
+function totalizador(cant,precio,estado)
 {
     const neto = cant * precio;
-    return "cantidad de items: " + cant + " precio por item: " + precio + " precio neto("+ cant + "*$"+precio+"): " + neto;
+    return "cantidad de items: " + cant +"<br>" +" precio por item: " + precio + "<br>" +" Estado: " + estado + "<br>" +" precio neto("+ cant + "*$"+precio+"): " + neto ;
 }
 
 export default totalizador;

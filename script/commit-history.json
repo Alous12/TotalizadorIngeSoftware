@@ -38,12 +38,12 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "7a515e85d8ace2fd9852d1d8dc66fa7d099af279",
     "author": "Alous12",
     "commit": {
       "date": "2025-09-04T13:51:12.000Z",
       "message": "feat: agregar mostrar peso neto(precio * cantidad)",
-      "url": "https://github.com/Alous12/TotalizadorIngeSoftware/commit/HEAD"
+      "url": "https://github.com/Alous12/TotalizadorIngeSoftware/commit/7a515e85d8ace2fd9852d1d8dc66fa7d099af279"
     },
     "stats": {
       "total": 12,
@@ -55,5 +55,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alous12",
+    "commit": {
+      "date": "2025-09-04T14:00:59.000Z",
+      "message": "feat: agregar mostrar estado",
+      "url": "https://github.com/Alous12/TotalizadorIngeSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 12,
+      "deletions": 4,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
