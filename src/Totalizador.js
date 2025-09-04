@@ -1,6 +1,6 @@
-function totalizador(n)
+function totalizador(cant,precio)
 {
-    return n;
+    return "items: " + cant + " precio por item: " + precio;
 }
 
 export default totalizador;

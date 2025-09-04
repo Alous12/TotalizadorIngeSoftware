@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "492014dcfb22a345207321b3fcb4f0a3ead7f4e4",
     "author": "Alous12",
     "commit": {
       "date": "2025-09-04T13:31:17.000Z",
       "message": "feat: agregar mostrar e ingresar cantidad de items(Boton totalizador)",
-      "url": "https://github.com/Alous12/TotalizadorIngeSoftware/commit/HEAD"
+      "url": "https://github.com/Alous12/TotalizadorIngeSoftware/commit/492014dcfb22a345207321b3fcb4f0a3ead7f4e4"
     },
     "stats": {
       "total": 34,
       "additions": 17,
       "deletions": 17,
+      "date": "2025-09-04"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alous12",
+    "commit": {
+      "date": "2025-09-04T13:41:19.000Z",
+      "message": "feat: agregar mostrar e ingresar precio por item",
+      "url": "https://github.com/Alous12/TotalizadorIngeSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 6,
+      "deletions": 3,
       "date": "2025-09-04"
     },
     "coverage": 0,
